@@ -28,7 +28,7 @@ device_pools:
 
 test_suites:
 
-  - test_suite: example tests 1
+  - test_suite: CodeMagic Test Suite
     main: test_driver/main.dart
     tests:
       - test_driver/main_test.dart
